@@ -4,4 +4,4 @@ This is a map type program that used OSMnx to create a path from your location t
 to find the shortest path betwee nodes but we did this mannually and extracted data from graph objects to achieve this. 
 
 ### Running this project
-OSMnx library is needed to run this project. 
+OSMnx library is needed to run this project. Refer to this guide: https://osmnx.readthedocs.io/en/stable/installation.html
